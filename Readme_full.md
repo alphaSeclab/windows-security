@@ -8,7 +8,7 @@
 
 - 跟Windows安全有关的资源收集。当前包括的工具个数1100+，并根据功能进行了粗糙的分类。部分工具添加了中文描述。当前包括文章数3300+。
 - 此页只包含部分内容. [查看完整版](https://github.com/alphaSeclab/windows-security/blob/master/Readme_full.md)
-
+- [English Version](https://github.com/alphaSeclab/windows-security/blob/master/Readme_en.md)
 
 # 目录
 - [PowerShell](#686597a4cff20c60a8e86116cde645fb)
